@@ -1,5 +1,5 @@
 //* Print the following series using for loop:-
-// todo 1,8,27,64,125,216,......n
+//  1,8,27,64,125,216,......n
 //? Input
 //? 125
 //? Output :-
