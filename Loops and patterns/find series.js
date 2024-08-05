@@ -1,5 +1,5 @@
 //* Print the following series using while loop
-//todo 1 4 9 16 25 36 …. n
+//  1 4 9 16 25 36 …. n
 //? Input :-
 //? n = 49
 //? Output :-

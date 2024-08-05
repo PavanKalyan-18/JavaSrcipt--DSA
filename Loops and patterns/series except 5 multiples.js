@@ -1,5 +1,5 @@
 //* By using while loop and continue statement
-//todo Print all number from 1 to n but then it should not be divisible by 5
+//  Print all number from 1 to n but then it should not be divisible by 5
 //? Example:-
 //? Input:-
 //? n=7

@@ -1,5 +1,5 @@
 //* Write a program to print whether a given number is an Armstrong number or not..
-//todo (Armstrong number is a number in which all the sum of cubes of digits is equal to the number
+// (Armstrong number is a number in which all the sum of cubes of digits is equal to the number)
 //? Example:-
 //? Input
 //? n = 153
